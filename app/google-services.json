@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919141375895",
+    "project_id": "infs3634-group-assignmen-891ab",
+    "storage_bucket": "infs3634-group-assignmen-891ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919141375895:android:105f25ab78bc8599d4eed2",
+        "android_client_info": {
+          "package_name": "au.edu.unsw.infs3634.unswgamifiedlearningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919141375895-5p1vp7864n8k26514n3j5mekd2mrd8if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz35Qk1ISyXAEcWTZOHmcA3RLsO-eX3qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919141375895-5p1vp7864n8k26514n3j5mekd2mrd8if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

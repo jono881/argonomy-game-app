@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_button"
+        android:icon="@drawable/home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/content_button"
+        android:icon="@drawable/content"
+        android:title="Content"/>
+    <item
+        android:id="@+id/quiz_button"
+        android:icon="@drawable/doc"
+        android:title="Quizzes"/>
+    <item
+        android:id="@+id/profile_button"
+        android:icon="@drawable/user"
+        android:title="Profile"/>
+
+
+</menu>
